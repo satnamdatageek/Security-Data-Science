@@ -1,7 +1,7 @@
-# Industrial Control Security Data Science - Research 
-Purpose:  Purpose of this repo is to share the security data science research in the area of Industrial Control System Security.  
+# Security Data Science - Research 
+Purpose:  Purpose of this repo is to share the security data science research 
  
- IOT/ICS Attack News
+ IOT/ICS Security Data Science, Honeypots
 1. [Youtube: Honeypots for Active Defense](https://www.youtube.com/watch?v=FTlvWLd-M2c)
   
 2. Deception/Honeypots for ICS System: [Conpot](http://conpot.org/): Conpot is a low interaction honeypot system, available as open source. It has been deployed world-wide to detect attacks on industrial control systems.  
