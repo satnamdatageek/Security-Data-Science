@@ -3,8 +3,7 @@ Purpose:  Purpose of this repo is to share the security data science research in
  
  IOT/ICS Attack News
 1. [Youtube: Honeypots for Active Defense](https://www.youtube.com/watch?v=FTlvWLd-M2c)
- 
- 
+  
 2. Deception/Honeypots for ICS System: [Conpot](http://conpot.org/): Conpot is a low interaction honeypot system, available as open source. It has been deployed world-wide to detect attacks on industrial control systems.  
 
 3. [Using Machine learning to Reverse Engineer Protocols in order to automatically configure PLC emulators using network traces](http://oai.dtic.mil/oai/oai?verb=getRecord&metadataPrefix=html&identifier=ADA620212)
@@ -17,6 +16,11 @@ Purpose:  Purpose of this repo is to share the security data science research in
 
 7. [Youtube: Black Hat EU 2013 - Who's Really Attacking Your ICS Devices?](https://www.youtube.com/watch?v=qF1DjrkzaB4)
 
+8. [SCADA Honeynets: The attractiveness of honeypots as critical infrastructure security tools for the detection and analysis of advanced threats](http://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=3130&context=etd)
+
+9. [Guide to Industrial Control Systems (ICS) Security](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82.pdf)
+
+10. [An implementation of log visualization system combined SCADA](http://icact.org/upload/2016/0079/20160079_finalpaper.pdf)
 
 # Security Data Science
 
